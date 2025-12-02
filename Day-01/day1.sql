@@ -1,1 +1,1 @@
-
+𝗗𝗮𝗶𝗹𝘆 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻: Every year, the city of Whoville conducts a Reindeer Run to find the best reindeers for Santa's Sleigh. Can you write a query to return the name and rank of the top 7 reindeers in this race?
